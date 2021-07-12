@@ -1,14 +1,14 @@
 ---
 layout: homepage
-title: Comms
-description: Brief site description here
+title: XXX
+description: XXX
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: In the meantime, we continue to accept job applications here!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Maintenance in progress
+      subtitle: The XXX website is undergoing maintenance and will be back online shortly. Thank you for your understanding and patience.
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
