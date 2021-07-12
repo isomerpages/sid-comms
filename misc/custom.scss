@@ -335,3 +335,60 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+.content li {
+    margin: 24px 0!important;
+}
+
+html body.vp-center {
+  justify-content: left;
+}
+//.col.is-one-third.has-text-right-desktop.has-text-right-tablet.has-text-left-mobile:before,
+.col.is-one-third.has-text-right-desktop.has-text-right-tablet.has-text-left-mobile:after{
+  content: "This is our official website. We do not have a social media presence.";
+  color: #b7b7b7;
+  font-size: 16px !important;
+  white-space: nowrap;
+  display: flex;
+  justify-content: flex-end;
+}
+@media screen and (max-width: 1279px) {
+.col.is-one-third.has-text-right-desktop.has-text-right-tablet.has-text-left-mobile:after{
+  white-space: normal;
+}
+}
+@media screen and (max-width: 769px) {
+.col.is-one-third.has-text-right-desktop.has-text-right-tablet.has-text-left-mobile:after{
+  white-space: normal;
+  justify-content: normal;
+}
+}
+/*.bp-footer.bottom-section .col.is-two-thirds:before,
+.bp-footer.bottom-section .col.is-two-thirds:after {
+  content: "This is our official website. We do not have other social media presence.";
+  color: #b7b7b7;
+  font-size: 16px !important;
+}
+	  
+.col.is-one-third.has-text-right-desktop.has-text-right-tablet.has-text-left-mobile:before {
+    content: "This is our official website. We do not have other social media presence.";
+    color: #b7b7b7;
+    font-size: 16px!important;
+    white-space: nowrap;
+    display: flex;
+    justify-content: flex-end;
+}
+	  
+//footer.bp-footer.top-section:after {
+.bp-footer.top-section .bp-container:after {
+    content: "This is our official website. We do not have other social media presence.";
+    //padding: .75rem;
+    color: #b7b7b7;
+}
+footer.bp-footer.bottom-section:after {
+    content: "This is our official website. We do not have other social media presence.";
+    //padding: .75rem;
+    color: #b7b7b7;
+    margin-top: 5px;
+}*/
+	  
