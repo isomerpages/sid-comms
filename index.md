@@ -9,5 +9,5 @@ sections:
   - hero:
       title: Maintenance in progress
       subtitle: Our website is undergoing maintenance and will be back online shortly. <br> Thank you for your understanding and patience.
-      background: /images/hero-banner.png
+      background: /images/main-banner-tint.jpg
 ---
