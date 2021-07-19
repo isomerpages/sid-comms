@@ -1,6 +1,6 @@
-title: XXX Division
-url: ""
-favicon: /images/favicon-isomer.ico
+title: Security and Intelligence Division
+url: "https://www.sid.gov.sg"
+favicon: /images/sid-logo.png
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: "#00838f"
 resources_name: resource
-description: An Isomer site of the Singapore Government
+description: Security and Intelligence Division
 permalink: none
 baseurl: ""
 exclude:
