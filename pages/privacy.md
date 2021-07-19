@@ -36,7 +36,7 @@ permalink: /privacy/
 
 
 
-7. Please [contact us](xxx){:target="_blank" .noexternal} if you:  
+7. Please [contact us](https://go.gov.sg/contact-us-feedback){:target="_blank" .noexternal} if you: 
 
    (a) have any enquires or feedback on our data protection policies and procedures,  
    
