@@ -18,3 +18,22 @@ We are aware of online platforms claiming to represent XXX. Please note that the
 
 Scam calls
 We are aware of calls via automated machines alleging to be from XXX. Please note that these are hoaxes.
+
+
+
+
+
+---
+layout: homepage
+title: Security and Intelligence Division
+description: Security and Intelligence Division
+image: /images/sid-logo.png
+permalink: /
+notification: #We continue to accept job applications <a href="https://go.gov.sg/candidateapplicationform" target="_blank">here</a>.
+sections:
+- hero:
+      subtitle: Maintenance in progress <br>We continue to accept job applications <a href="https://go.gov.sg/candidateapplicationform" target="_blank">here</a>.<br>We apologise for the inconvenience caused.<br>
+      background: /images/main-banner-tint.jpg
+      url: https://go.gov.sg/candidateapplicationform
+      button: Contact
+---
