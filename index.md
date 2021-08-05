@@ -7,7 +7,6 @@ permalink: /
 notification: #We continue to accept job applications <a href="https://go.gov.sg/candidateapplicationform" target="_blank">here</a>.
 sections:
   - hero:
-      title: Maintenance in progress
-      subtitle: We continue to accept job applications <a href="https://go.gov.sg/candidateapplicationform" target="_blank">here</a>.<br> Thank you for your understanding and patience. <br>
+      subtitle:Maintenance in progress <br>We continue to accept job applications <a href="https://go.gov.sg/candidateapplicationform" target="_blank">here</a>.<br>We apologise for the inconvenience caused.<br>
       background: /images/main-banner-tint.jpg
 ---
