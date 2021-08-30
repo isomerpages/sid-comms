@@ -73,5 +73,8 @@ sections:
 
 This is the official SID website. Please note that any online platforms, including social media platforms, that claim to represent SID are fake. 
 
-///if there are any reports of hoax calls
+///if there are any reports of hoax calls:
+
 Any calls using automated voice messages claiming to be from SID are hoaxes.
+
+For any queries, please write in to XXX@gov.sg
