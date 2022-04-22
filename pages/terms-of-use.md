@@ -2,7 +2,7 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
-### TERMS OF USE!
+### TERMS OF USE
 Thank you for visiting www.xxx.gov.sg ("Digital Service").
 
 #### 1. General
