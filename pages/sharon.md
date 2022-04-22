@@ -1,5 +1,5 @@
 ---
 title: Sharon
-permalink: /faq/
+permalink: /sharon/
 ---
 Hello, Isomer! This is my very first edit!
